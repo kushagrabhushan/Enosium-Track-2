@@ -4,7 +4,6 @@
 
 ### *Predicting heartrate, breathrate and movements from ballistocardiogram data*
 
-</br> 
 
 ## The problem it solves:
 
@@ -13,7 +12,6 @@ It can also be used to **detect movements** on the bed i.e. if the patient is st
 The best use of this project would be to **monitor someone’s vital signs while they are asleep**, a system can be setup to alert when the patient’s vitals are out of bound or abnormal movements are detected.  
 Apart from hospitals, due to the low cost of sensors in comparison to electrocardiograms and spirometers, they can also be employed for **monitoring sleep** healthy people on a daily basis.  
 
-</br>
 
 ## Challenges we ran into:
 
@@ -25,7 +23,6 @@ During the course of the project, we faced quite a few challenges. We were able 
 5. Another hurdle was understanding and **interpreting the Ballistocardiograph**. Understanding how it was related to heart rates, breath rates and movements of the patient was a tiresome job in itself.   
 6. As far as the models that were used in the project are concerned, we came across a really useful one. We ended up actually using it. It’s called **Long Short - Term Memory (LSTM)**. It is an artificial Recurrent Neural Network (RNN) architecture highly used in the field of Deep Learning. Reading and understanding the working and the architecture was another huge task but we managed to do it somehow. It proved to be really helpful in the formation of our final solution formation. 
 
-</br>
 
 ## Technologies we used
 
